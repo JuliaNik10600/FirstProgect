@@ -23,4 +23,5 @@ public class Main {
 
         myArrayList.clear();
         myArrayList.read();
+    }
 }
